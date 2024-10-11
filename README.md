@@ -72,7 +72,6 @@ This project demonstrates a basic CRUD (Create, Read, Update, Delete) applicatio
       "description": "Description of the resource"
     }
     ```
-
 ## Database Configuration
 - By default, the project uses H2 in-memory database for quick testing. To use MySQL or another relational database, update the `application.properties` file as shown above.
 
