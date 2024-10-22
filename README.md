@@ -43,7 +43,6 @@ This project demonstrates a basic CRUD (Create, Read, Update, Delete) applicatio
     spring.datasource.username=your_username
     spring.datasource.password=your_password
     ```
-
 4. Build the project:
     ```bash
     mvn clean install
