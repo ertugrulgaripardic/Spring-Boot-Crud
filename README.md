@@ -52,7 +52,6 @@ This project demonstrates a basic CRUD (Create, Read, Update, Delete) applicatio
     ```bash
     mvn spring-boot:run
     ```
-
 6. The API will be available at `http://localhost:8080`.
 
 ## API Endpoints
