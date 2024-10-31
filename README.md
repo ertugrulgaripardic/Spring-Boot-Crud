@@ -36,7 +36,6 @@ This project demonstrates a basic CRUD (Create, Read, Update, Delete) applicatio
     ```bash
     cd spring-boot-crud
     ```
-
 3. Configure your database in `application.properties`:
     ```properties
     spring.datasource.url=jdbc:mysql://localhost:3306/your_database_name
